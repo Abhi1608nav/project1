@@ -1,0 +1,368 @@
+body{
+    background:url(bg4\ \(3\).jpg);
+    background-size: cover;
+}
+.navbar{
+    background-color: #74685e;
+    border-radius: 7px;
+}
+.navbar ul{
+    overflow: auto;
+    list-style: none;
+    
+}
+ .navbar li a {
+    float: left;
+    text-decoration: none;
+    padding: 10px 5px;
+    margin: 14px;
+    color: rgb(240, 174, 88);
+    font-size:20px;
+   
+ }
+  .navbar li a:hover{
+     color: aliceblue;
+ }
+ .search {
+     float: right;
+     
+ }
+ .navbar input{
+    color: aliceblue;
+    margin-top: 21px;
+    margin-right: 17px;
+    padding: 3px 9px;
+    border-radius: 4px;
+ }
+ .item h2{
+    font-size: 37px;
+    color: #f0dec9;
+    padding-left: 55px;
+    margin-bottom: 9px;
+ }
+ #item-1 p{
+      font-family: 'Ubuntu', sans-serif;
+      font-size: 24px;
+      width: 480px;
+      text-align: justify;
+      margin-left: 51px;
+
+ }
+ #me{
+     font-size: 44px;
+     text-align: center;
+     font-family:'Ubuntu', sans-serif ;
+     color: #d89c42;
+     text-shadow: 2px 2px 2px white;
+ }
+ #item-2{
+    height: 400px;
+    width: auto;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+ }
+     
+ #item-2 .section{
+    width: 300px;
+    height: auto;   
+ }
+#box1{
+     width: 230px;
+     height:300px;
+     background:url(bg4\ \(4\).jpg);
+     background-size: cover;
+     opacity: 0.8;
+ }
+ 
+#box1 h4{
+    text-align: center;
+    font-size: 30px;
+    color: #b49371;
+    padding-top: 0px;;
+}
+#box1 p{
+    text-align:center;
+    font-family: 'Ubuntu', sans-serif;
+    color: #ffffff;
+    font-size: 24px;
+    padding-top:1px;
+}
+#box2{
+ background: url(bg4.jpg);
+ background-size: cover;   
+}
+#box2 img{
+    width: 301px;
+    padding-top: 27px;
+}
+#box2 p{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    color: #faeac5;
+    font-size: 26px;
+    padding-top: 13px;
+}
+#box3{
+    background: url(goal.jpg);
+    background-size: cover;
+}
+#box3 p{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 25px;
+    padding-top: 118px;
+    color: #ffffff;
+}
+ #skill{
+    font-size: 44px;
+     text-align: center;
+     font-family:'Ubuntu', sans-serif ;
+     color: #d89c42;
+     margin-top: 9rem;
+     text-shadow: 2px 2px 2px white;
+ }
+ #item-3{
+    width: auto;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#item-3.skill{
+    width: 180px;
+    height: 120px;
+}
+#skill1{
+background-color: #ffffff;
+width: 180px;
+    height: 150px;
+    margin: 4px;
+    text-align: center;
+    font-family: 'ubuntu',sans-serif;
+    font-size: 30px;
+    border: 2px solid white;
+    border-radius: 3px;
+    box-shadow: 2px 2px 2px black;
+    box-shadow: inset 2px 2px 3px rgb(230, 221, 221) ,4px 4px 4px black;
+}
+#skill2{
+    background-color: #ffffff; 
+    width: 180px;
+    height: 150px;
+    margin: 4px;
+    text-align: center;
+    font-family: 'ubuntu',sans-serif;
+    font-size: 30px;
+    border: 2px solid white;
+    border-radius: 3px;
+    box-shadow: 2px 2px 2px black;
+    box-shadow: inset 2px 2px 3px rgb(230, 221, 221),4px 4px 4px black;
+}
+#skill3{
+    background-color: #ffffff;
+    width: 180px;
+    height: 150px;
+    margin: 4px;
+    text-align: center;
+    font-family: 'ubuntu',sans-serif;
+    font-size: 30px;
+    border: 2px solid white;
+    border-radius: 3px;
+    box-shadow: 2px 2px 2px black;
+    box-shadow: inset 2px 2px 3px rgb(230, 221, 221) ,4px 4px 4px black;
+}
+#skill4{
+    background-color: #ffffff;
+    width: 180px;
+    height: 150px;
+    margin: 4px;
+    text-align: center;
+    font-family: 'ubuntu',sans-serif;
+    font-size: 30px;
+    border: 2px solid white;
+    border-radius: 3px;
+    box-shadow: 2px 2px 2px black;
+    box-shadow: inset 2px 2px 3px rgb(230, 221, 221) ,4px 4px 4px black;
+}
+#skill5{
+    background-color: #ffffff;
+    width: 180px;
+    height: 150px;
+    margin: 4px;
+    text-align: center;
+    font-family: 'ubuntu',sans-serif;
+    font-size: 30px;
+    border: 2px solid white;
+    border-radius: 3px;
+    box-shadow: 2px 2px 2px black;
+    box-shadow: inset 2px 2px 3px rgb(230, 221, 221) ,4px 4px 4px black;
+}
+#skill6{
+    background-color: #ffffff;
+    width: 180px;
+    height: 150px;
+    margin: 4px;
+    text-align: center;
+    font-family: 'ubuntu',sans-serif;
+    font-size: 30px;
+    border: 2px solid white;
+    border-radius: 3px;
+    box-shadow: 2px 2px 2px black;
+    box-shadow: inset 2px 2px 3px rgb(230, 221, 221) ,4px 4px 4px black;
+}
+#skill7{
+   background-color: #ffffff; 
+   width: 180px;
+    height: 150px;
+    margin: 4px;
+    text-align: center;
+    font-family: 'ubuntu',sans-serif;
+    font-size: 30px;
+    border: 2px solid white;
+    border-radius: 3px;
+    box-shadow: 2px 2px 2px black;
+    box-shadow: inset 2px 2px 3px rgb(230, 221, 221) ,4px 4px 4px black;
+}
+#skill8{
+   background-color: #ffffff;
+   width: 180px;
+    height: 150px;
+    margin: 4px;
+    text-align: center;
+    font-family: 'ubuntu',sans-serif;
+    font-size: 30px;
+    border: 2px solid white;
+    border-radius: 3px;
+    box-shadow: 2px 2px 2px black;
+    box-shadow: inset 2px 2px 3px rgb(230, 221, 221) ,4px 4px 4px black; 
+}
+#skill9{
+   background-color: #ffffff; 
+   width: 180px;
+    height: 150px;
+    margin: 4px;
+    text-align: center;
+    font-family: 'ubuntu',sans-serif;
+    font-size: 30px;
+    border: 2px solid white;
+    border-radius: 3px;
+    box-shadow: 2px 2px 2px black;
+    box-shadow: inset 2px 2px 3px rgb(230, 221, 221) ,4px 4px 4px black;
+}
+#skill10{
+   background-color: #ffffff; 
+   width: 180px;
+    height: 150px;
+    margin: 4px;
+    text-align: center;
+    font-family: 'ubuntu',sans-serif;
+    font-size: 30px;
+    border: 2px solid white;
+    border-radius: 3px;
+    box-shadow: 2px 2px 2px black;
+    box-shadow: inset 2px 2px 3px rgb(230, 221, 221) ,4px 4px 4px black;
+}
+
+.contact h2{
+    font-size: 44px;
+     text-align: center;
+     font-family:'Ubuntu', sans-serif ;
+     color: #d89c42;
+     margin-top: 9rem;
+     text-shadow: 2px 2px 2px white;
+     
+}
+.contact p{
+    font-size: 23px;
+    text-align: center;
+    justify-content: center;
+    color: #ffffff;
+    font-family: 'ubuntu',sans-serif;
+    width: 950px;
+    margin: auto;
+    margin-top: none;
+}
+.personal h5{
+    font-size: 1.4rem ;
+    font-family:'Ubuntu', sans-serif ;
+    text-decoration: wavy;
+    letter-spacing: 2px;
+    text-align: center;
+    justify-content: center;
+    color: #d89c42;
+    text-shadow: 1px 1px 1px white;
+}
+.contact h4{
+    font-size: 1.4rem ;
+    font-family:'Ubuntu', sans-serif ;
+    letter-spacing: 2px;
+    color: #d89c42;
+    margin: 4px;
+    text-shadow: 1px 1px 1px white;
+}
+.applicant form{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+}
+label {
+    font-size: 23px;
+    color: #bac76f;
+    font-family: 'ubuntu',sans-serif;
+    width: 950px;
+    margin: auto;
+    margin-top: 4px;
+    margin-bottom:4px;
+    margin:3px;
+}
+input[type="text"]{
+    box-sizing: border-box;
+    border: 2px solid white;
+    border-radius: 7px;
+    font-family:'Ubuntu', sans-serif ;
+    height: 28px;
+}
+input[type="email"]{
+    box-sizing: border-box;
+    border: 2px solid white;
+    border-radius: 7px;
+    font-family:'Ubuntu', sans-serif ;
+    height: 28px;
+}
+textarea{
+    margin-top: 28px;
+    font-family:'Ubuntu', sans-serif ;
+    border-radius: 4px;
+
+}
+.main{
+    display: flex;
+    height: 100vh;
+    text-align: center;
+    justify-content: center;
+}
+button{
+    margin-top: 10px;
+    border:none;
+    outline: none;
+    height: 40px;
+    width: 140px;
+    background: #dda552;
+    font-size: 20px;
+    border-radius: 15px;
+    transition: 0.3s ease;
+}
+button:hover{
+    cursor: pointer;
+    background-color: #df8a36;
+    box-shadow: 0 0 5px #df8a36,
+                0 0 20px #df8a36,
+                0 0 60px #df8a36,
+                0 0 130px #df8a36;
+}
+
+
+
